@@ -1,27 +1,13 @@
-# cryptoTrader 
-CryptoTrader is a tool designed to keep you updated on the latest trends in the cryptocurrency world. It provides real-time information on the total number of cryptocurrencies, as well as news related to them, helping users make informed decisions about the crypto market.
+# Cryptoverse - Explore the World of Cryptocurrency
 
-# Features
-## Total Cryptocurrencies:
-Displays the current count of all cryptocurrencies in the market.
-## Crypto News:
-Fetches and displays the latest news articles and updates on cryptocurrencies from trusted sources.
-## Real-Time Data: 
-Keeps you updated with live information on cryptocurrency trends.
+![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
 
-## View the total number of cryptocurrencies available in the market.
-## Browse through the latest news articles on cryptocurrencies.
-## Get updated information in real-time.
-# Technologies Used
-## Node.js: Backend development
-## Express.js: API routing
-## Axios: For fetching API data
-## JavaScript: Programming language
-## HTML/CSS: Basic web structure and styling
-# APIs Used
-## Rapid Api
+### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-## Crypto API: 
-To fetch the total number of cryptocurrencies.
-## News API:
-To fetch the latest cryptocurrency news.
+## Introduction
+This is a code repository for the corresponding video tutorial. 
+
+In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+
+By the end of this video, you will become the master of working with APIs.
